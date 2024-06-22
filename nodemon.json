@@ -4,6 +4,7 @@
         "DB_PASSWORD" : "Saideepak-236",
         "DB_NAME" : "mern",
         "GOOGLE_API_KEY": "AIzaSyCPQl-2hPJ57E2EPvsEu343MexgE7OD7Dg",
-        "JWT_KEY" : "supersecret_dont_share"
+        "JWT_KEY" : "supersecret_dont_share",
+        "PORT" : "5000"
     }
 }
