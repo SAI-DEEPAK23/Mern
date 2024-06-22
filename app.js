@@ -56,7 +56,7 @@ mongoose
     }
   )
   .then(()=>{
-    app.listen(5000,()=>{
+    app.listen(process.env.PORT,()=>{
       console.log(`Server Running at http://localhost:${5000}`);
     });
   })
